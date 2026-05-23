@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Rishabh Negi</h1>
 
-<!--
-**rishabh7302/rishabh7302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+B.Tech CSE Student | AI/M/COMPUTER VISION Enthusiast | Developer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🌱 Currently learning AI/ML/COMPUTER VISION and Development
+- 💡 Interested in Machine Learning and Problem Solving
+- 🚀 Love building projects and exploring new technologies
+- 🤝 Open to collaboration and internships
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,nodejs,mongodb,tensorflow,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
