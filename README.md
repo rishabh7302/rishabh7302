@@ -23,15 +23,13 @@ B.Tech CSE Student | AI/M/COMPUTER VISION Enthusiast | Developer
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh7302&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rishabh7302&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh7302&layout=compact&theme=tokyonight" />
-</p>
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishabh7302&layout=compact&theme=tokyonight)
 
 ---
 
