@@ -38,5 +38,5 @@ B.Tech CSE Student | AI/M/COMPUTER VISION Enthusiast | Developer
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rishabh7302&theme=tokyonight" />
 </p>
