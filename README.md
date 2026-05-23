@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Rishabh Negi</h1>
 
 <p align="center">
-B.Tech CSE Student | AI/M/COMPUTER VISION Enthusiast | Developer
+B.Tech CSE Student | AI/ML/COMPUTER VISION Enthusiast | Developer
 </p>
 
 ---
